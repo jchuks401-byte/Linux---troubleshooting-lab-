@@ -1,18 +1,29 @@
 # Linux Troubleshooting Lab
 
-This project demonstrates my practice with Linux troubleshooting concepts including:
+## Overview
+This repository contains my hands-on Linux troubleshooting practice focused on core IT support skills. It documents commands, scenarios, and problem-solving exercises completed during my learning journey.
 
-- Process management (ps, top, kill)
-- File permissions (chmod, chown)
-- Software installation (apt, sudo)
-- Basic command-line troubleshooting
+## Topics Covered
+- File Systems: `pwd`, `ls`, `cd`, `mkdir`, `rm`, `find`, `grep`
+- Networking: `ip a`, `ping`, gateway checks, DNS basics
+- Process Management: `ps`, `top`, `kill`, `pkill`
+- Permissions: `chmod`, `chown`
+- Software Installation: `apt`, `sudo`
+- Troubleshooting Tickets: simulated support issues and resolutions
 
-## Purpose
-To build hands-on skills required for IT support roles.
+## Example Commands
+```bash
+find /home -name "*.txt"
+ping 8.8.8.8
+ps aux | grep sleep
+chmod 644 file.txt
+sudo apt install htop
 
-## Tools Used
-- Linux (Ubuntu)
-- Bash shell
-
-## Status
-In progress 
+What I Learned
+How to troubleshoot issues step by step
+How Linux permissions control access
+How to diagnose connectivity problems
+How to monitor and stop processes
+How to document support issues clearly
+Career Goal
+I am building practical skills for IT Support, System Administration, and Cybersecurity opportunities.
