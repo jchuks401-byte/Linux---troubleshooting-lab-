@@ -19,11 +19,13 @@ ps aux | grep sleep
 chmod 644 file.txt
 sudo apt install htop
 
-What I Learned
-How to troubleshoot issues step by step
-How Linux permissions control access
-How to diagnose connectivity problems
-How to monitor and stop processes
-How to document support issues clearly
-Career Goal
+
+## What I Learned
+- How to troubleshoot issues step by step
+- How Linux permissions control access
+- How to diagnose connectivity problems
+- How to monitor and stop processes
+- How to document support issues clearly
+
+## Career Goal
 I am building practical skills for IT Support, System Administration, and Cybersecurity opportunities.
