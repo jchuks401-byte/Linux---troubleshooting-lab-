@@ -18,7 +18,7 @@ ping 8.8.8.8
 ps aux | grep sleep
 chmod 644 file.txt
 sudo apt install htop
-
+```
 
 ## What I Learned
 - How to troubleshoot issues step by step
